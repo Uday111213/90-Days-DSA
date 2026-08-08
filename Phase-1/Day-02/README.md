@@ -23,6 +23,7 @@
 
 ## LeetCode
 - 1920 - Build Array from Permutation
+- 26 - Remove Duplicates from Sorted Array
 - 1929 - Concatenation of Array (Revision)
 - 1480 - Running Sum of 1D Array (Revision)
 
