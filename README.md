@@ -26,6 +26,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) practice us
 ## 📈 Progress
 - ✅ Day 01 Completed
 - ✅ Day 02 Completed
+- ✅ Day 03 Completed
 
 ## ⭐ Note
 This repository will be updated daily as I progress through my 90-Day DSA Journey.
